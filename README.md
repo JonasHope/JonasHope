@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img width="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"></img>
+  <img width="100%" src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_up.svg"></img>
    <div id="badges">
      <img src="https://komarev.com/ghpvc/?username=JonasHope&style=flat-square&color=blue" alt=""/>
    </div>
-   <h1>
-      Hello
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   </h1>
  </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;My+name+is+Jonas+Hope;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+---
  
  ### 👨‍⚖️ About Me :
  
@@ -28,6 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode"  alt="VScode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress"  alt="wordpress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="woocommerce"  alt="woocommerce" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu"  alt="ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
 ---
