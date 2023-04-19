@@ -9,19 +9,13 @@
    </h1>
  </div>
  
- <div id="banner" align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"></img>
- </div>
- 
- ---
- 
  ### 👨‍⚖️ About Me :
  
  
-- 🌱 I’m currently studying front-end developing at Noroff School of Technolog.
+- 🌱 I’m currently studying Front-End Development at Noroff School of Technolog.
 - 💬 Ask me about anything!
 - 📫 How to reach me: Jonashope94@gmail.com
-- ⚡ On my free time, I spend time with my daugther.
+- ⚡ On my free time, I like to spend time with my family
  
 ---
 
