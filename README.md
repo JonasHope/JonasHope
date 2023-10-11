@@ -12,7 +12,7 @@
  ### 👨‍⚖️ About Me :
  
  
-- 🌱 I’m currently studying Front-End Development at Noroff School of Technolog.
+- 🌱 I’m a Front-End Developer
 - 💬 Ask me about anything!
 - 📫 How to reach me: Jonashope94@gmail.com
 - ⚡ On my free time, I like to spend time with my family
@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="woocommerce"  alt="woocommerce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode"  alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu"  alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react"  alt="react" width="40" height="40"/>&nbsp;
 </div>
 
 ---
